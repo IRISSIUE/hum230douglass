@@ -38,7 +38,7 @@ title: HUM230 Frederick Douglass Edition
 # for non-Recovery Hub projects, check your GitHub Pages URL
 
 baseurl: "/hum230douglass"
-url: "https://irissiue.github.io/"
+url: "https://irissiue.github.io"
 
 
 
@@ -79,7 +79,7 @@ description: >-
 # Configure your links here:
 
 header_pages:  
-  - "items/books/douglass.md"
+  - "https://irissiue.github.io/hum230douglass/items/books/douglass.md"
 
 
 ################
